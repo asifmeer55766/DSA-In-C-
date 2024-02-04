@@ -1,2 +1,2 @@
-# DSA-In-C-
-this repo is contained all my DSA practice code in C++ language
+# DSA-In-C++
+Welcome to my C++ DSA! Here, you'll find a comprehensive collection of my Data Structures and Algorithms (DSA) practice code. I believe in the power of collaboration, so if you have any new tricks, optimizations, or innovative approaches to enhance the existing code, please feel free to contribute. Your valuable insights can enrich the repository and provide a learning opportunity for everyone involved. Alternatively, if you're here to understand and learn, you can easily access the code and delve into its intricacies. Let's build a community where we can collectively sharpen our DSA skills and explore new perspectives in problem-solving. Happy coding!
